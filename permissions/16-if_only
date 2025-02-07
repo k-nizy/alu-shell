@@ -1,2 +1,2 @@
 #!/bin/bash
-test "$(stat -c %U hello)" = guillaume -a -z "$(exec sudo chown root hello)"
+test "$(stat -c %U hello)" = guillaume -a -z "$(exec sudo chown root hello)"    
