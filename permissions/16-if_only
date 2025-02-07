@@ -1,2 +1,2 @@
 #!/bin/bash
-test "$(stat -c '%U' hello)" = "guillaume" -a -z "$(exec sudo chown vincent hello)"      
+test "$(stat -c '%U' hello)" = "guillaume" -a -z "$(exec sudo chown vincent hello)"
