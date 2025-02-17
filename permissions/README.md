@@ -1,1 +1,1 @@
-this repository contains shell scripts for studybasic purposes
+ALu Scripts to change user
